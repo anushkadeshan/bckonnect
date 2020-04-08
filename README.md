@@ -25,13 +25,13 @@ Link : http://deshan.eastus.cloudapp.azure.com/
 
 Created 02 Users
 
-1 Admin User Name : anushkadeshan@gmail.com
+1 Admin User Name : anushkadeshan@gmail.com | 
   Admin Password : admin123
 
-2 Staff User Name : info@default.com
+2 Staff User Name : info@default.com | 
   Staff Password : sales123
   
-Database is attached to the email
+Database is attached to the email 
 
 # Thank You
 
