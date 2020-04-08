@@ -6,12 +6,12 @@ Please find the my project through master
 
 # Technologies Used
 
-`Laravel 5.8,
-`Mysql 5.6,
-`PHP 7.2,
-`Linux Envirnment ,
-`Azure,
-`Nginx
+` Laravel 5.8,
+` Mysql 5.6,
+` PHP 7.2,
+` Linux Envirnment ,
+` Azure,
+` Nginx
 
 # Used Laravel tools
 
